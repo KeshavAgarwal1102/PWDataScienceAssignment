@@ -1,0 +1,28 @@
+Q4. Different type of operators in Python and their uses.
+
+Operators are special symbols or keywords that are used to carry out specific actions on numbers or variables in Python expressions. 
+Python supports various types of operators, including arithmetic operators (+, -, *, /), comparison operators (==, !=, <, >), logical operators (and, or, not), assignment operators (=, +=, -=, *=, /=), etc. Operators have precedence and associativity rules that determine the order of evaluation in expressions.
+
+Types of operators in python -
+1. Arithmetic Operators
+These operators perform basic mathematical operations, example - ‘+’,’-’,’*’,’/’,’%’ etc
+
+2. Comparison Operators
+These operators compare two values and return a Boolean result. Example - ‘==’,=>,<=,<,>,!= etc.
+
+3. Assignment Operators
+These operators are used to assign values to variables. Examples - =,+=,-=,=,/=,//=,**= etc.
+
+4. Logical Operators
+These operators are used to combine conditional statements. Examples - and, or, not
+
+5. Bitwise Operators Example
+These operators work on the binary (bit) representation of integers. Example - ||, &, ^, ~, >>, <<
+
+6. Membership Operators and  Identity Operators -
+Membership operators test for membership in a sequence (like strings, lists, or tuples). And Identity operators are used to compare the memory locations of two objects.
+
+
+
+
+
