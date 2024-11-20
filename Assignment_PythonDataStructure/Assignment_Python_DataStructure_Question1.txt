@@ -1,0 +1,12 @@
+Q1 - 
+
+String Slicing in Python - 
+String slicing is a technique to extract a portion of a string using a colon (:) inside square brackets ([]). Python strings are immutable sequences of characters, and slicing allows you to create a new string that is a subset of the original.
+
+string[start:stop:step]
+
+start: The starting index of the slice (inclusive). Default is 0.
+stop: The ending index of the slice (exclusive). Slicing goes up to but does not include this index.
+step: The interval between characters in the slice. Default is 1.
+
+
