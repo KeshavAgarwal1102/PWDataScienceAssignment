@@ -1,0 +1,18 @@
+The five key concepts of Object-Oriented Programming (OOP) are:
+
+1. **Encapsulation**:
+   - The concept of bundling data (attributes) and methods (functions) that operate on the data into a single unit, i.e., a class. It involves restricting direct access to some of the object's components and providing controlled access through methods.
+
+2. **Abstraction**:
+   - The process of hiding the complex implementation details and showing only the essential features of an object. This simplifies interaction with the object and allows users to focus on the necessary aspects, without needing to understand the inner workings.
+
+3. **Inheritance**:
+   - A mechanism where a new class (child or subclass) inherits attributes and methods from an existing class (parent or superclass). It promotes code reuse and establishes a hierarchical relationship between classes.
+
+4. **Polymorphism**:
+   - The ability of different classes to respond to the same method or message in different ways. It allows different types of objects to be treated as instances of the same class and enables the invocation of the same method with different implementations based on the object type.
+
+5. **Composition**:
+   - A design principle where one class contains an instance of another class, establishing a "has-a" relationship between objects. It allows for the building of complex objects by combining simpler ones, promoting flexibility and reuse.
+
+These concepts work together to make OOP an effective paradigm for organizing and managing complex systems.
