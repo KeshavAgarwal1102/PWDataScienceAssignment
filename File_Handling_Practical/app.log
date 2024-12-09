@@ -1,0 +1,15 @@
+2024-12-09 13:44:12,471 - DEBUG - This is a debug message.
+2024-12-09 13:44:12,472 - INFO - This is an info message.
+2024-12-09 13:44:12,472 - WARNING - This is a warning message.
+2024-12-09 13:44:12,472 - ERROR - This is an error message.
+2024-12-09 13:44:12,472 - CRITICAL - This is a critical message.
+2024-12-09 13:44:13,663 - INFO - NumExpr defaulting to 4 threads.
+2024-12-09 15:13:55,457 - INFO - This is an info message.
+2024-12-09 15:13:55,458 - WARNING - This is a warning message.
+2024-12-09 15:13:55,458 - ERROR - This is an error message.
+2024-12-09 15:13:56,561 - INFO - NumExpr defaulting to 4 threads.
+2024-12-09 15:24:24,788 - DEBUG - This is a DEBUG message - useful for diagnosing problems.
+2024-12-09 15:24:24,803 - INFO - This is an INFO message - general information.
+2024-12-09 15:24:24,803 - WARNING - This is a WARNING message - something might be wrong.
+2024-12-09 15:24:24,803 - ERROR - This is an ERROR message - an error occurred.
+2024-12-09 15:24:24,803 - CRITICAL - This is a CRITICAL message - a severe error occurred!
